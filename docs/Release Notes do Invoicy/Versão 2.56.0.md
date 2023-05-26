@@ -11,7 +11,7 @@ No modelo de impressão Personalizado `(BETA)` é possível ativar vários parâ
 
 A inclusão desta mensagem informativa, sugerindo a pré-visualização da impressão antes de salvar, irá evitar que ocorra algum tipo de problema nos dados dos produtos e serviços na impressão do DANFE. O popup abaixo será aberto quando clicar em *Salvar*.
 
-<img class="img_ReleaseNotes" alt="IMG1"  src="docs/img/2.56.0/IMG1.png">
+<img class="img_ReleaseNotes" alt="IMG1"  src="img/2.56.0/IMG1.png">
 
 Caso o usuário deseje realizar a pré-visualização antes de salvar, basta clicar em *Ok*. Se porventura o mesmo queira pular a pré-visualização, poderá clicar em *Salvar*.
 
@@ -39,21 +39,21 @@ Para que seja retornado este campo, será necessário passar junto aos parâmetr
 
 Essa versão do InvoiCy conta com novos parâmetros nas configurações de impressão da NF-e! Logo abaixo do parâmetro já existente *Imprimir valor total da AFRMM*, foi criado o novo parâmetro *Somar os valores AFRMM dos itens*.
 
-<img class="img_ReleaseNotes" alt="IMG2"  src="docs/img/2.56.0/IMG2.png">
+<img class="img_ReleaseNotes" alt="IMG2"  src="img/2.56.0/IMG2.png">
 
 Configurando este parâmetro como *Sim*, será somado o valor AFRMM de cada item da NF-e, e impresso no DANFE quando o parâmetro *Imprimir valor total da AFRMM* também estiver configurado como *Sim*. Veja na imagem abaixo um DANFE apresentando a soma dos valores AFRMM de uma NF-e.
 
-<img class="img_ReleaseNotes" alt="IMG3"  src="docs/img/2.56.0/IMG3.png">
+<img class="img_ReleaseNotes" alt="IMG3"  src="img/2.56.0/IMG3.png">
 
 **Mas atenção!** Este parâmetro está disponível apenas para o DANFE no modelo Personalizado.
 
 Para atender o ajuste Sinief 17/22, onde fica a critério de cada UF desobrigar o contribuinte em informar o valor total da NF-e no DANFE Simplificado Etiqueta, foi criado o novo parâmetro *Imprimir valor total NF-e*, que permite definir se o valor total da NF-e será impresso ou não no DANFE Etiqueta.
 
-<img class="img_ReleaseNotes" alt="IMG4"  src="docs/img/2.56.0/IMG4.png">
+<img class="img_ReleaseNotes" alt="IMG4"  src="img/2.56.0/IMG4.png">
 
 **Mas atenção!** Este parâmetro está disponível apenas para o DANFE Etiqueta, conforme demonstra a imagem a seguir.
 
-<img class="img_ReleaseNotes" alt="IMG5"  src="docs/img/2.56.0/IMG5.png">
+<img class="img_ReleaseNotes" alt="IMG5"  src="img/2.56.0/IMG5.png">
 
 ## Agendamento de Exportação Recorrente via API:
 
