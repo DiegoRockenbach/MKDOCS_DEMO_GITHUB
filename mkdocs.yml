@@ -2,11 +2,11 @@ site_name: Invoicy for Devs
 site_url: https://diegorockenbach.github.io/MKDOCS_DEMO_GITHUB
 
 theme:
-  logo: img/InvoicyforDev.png
+  logo: https://diegorockenbach.github.io/MKDOCS_DEMO_GITHUB/img/InvoicyforDev.png
   name: material
   locale: pt_BR
   custom_dir: overrides
-  favicon: img/favicon.png
+  favicon: https://diegorockenbach.github.io/MKDOCS_DEMO_GITHUB/img/favicon.png
   palette:
     - scheme: default
       toggle:
