@@ -6,29 +6,29 @@
         <br>
         Aqui você vai encontrar toda a <b>documentação, downloads e formas de integração</b> necessárias para você começar a emitir com a nossa Plataforma.
     </span>
-    <img class="img_inicio" src="/img/index/IMG1.png">    
+    <img class="img_inicio" src="docs/img/index/IMG1.png">    
 </div>
 
 
 ## Essencial para começar a emissão com a Plataforma InvoiCy
 
 <div class="row_essencial">
-    <a href=""><img src="/img/index/IMG2_Documentacao.png"></a>
-    <a href=""><img src="/img/index/IMG3_Integracoes.png"></a>
-    <a href=""><img src="/img/index/IMG4_Duvidasfrequentes.png"></a>
+    <a href=""><img src="docs/img/index/IMG2_Documentacao.png"></a>
+    <a href=""><img src="docs/img/index/IMG3_Integracoes.png"></a>
+    <a href=""><img src="docs/img/index/IMG4_Duvidasfrequentes.png"></a>
 </div>
 
 <div class="img_descubraforma">
-    <img src="/img/index/IMG5_Descubraforma.png">
+    <img src="docs/img/index/IMG5_Descubraforma.png">
 </div>
 
 
 ## <span class="orange_hash">#</span>Precisando de mais conteúdo?
 
 <div class="row_maisconteudo">
-    <a href=""><img src="/img/index/IMG6_18anos.png"></a>
-    <a href=""><img src="/img/index/IMG7_Tabela.png"></a>
-    <a href=""><img src="/img/index/IMG8_Capture.png"></a>
+    <a href=""><img src="docs/img/index/IMG6_18anos.png"></a>
+    <a href=""><img src="docs/img/index/IMG7_Tabela.png"></a>
+    <a href=""><img src="docs/img/index/IMG8_Capture.png"></a>
 </div>
 
 <div class="vermais">
@@ -36,5 +36,5 @@
 </div>
 
 <div class="img_invoicymarket">
-    <img src="/img/index/IMG9_Invoicymarket.png">
+    <img src="docs/img/index/IMG9_Invoicymarket.png">
 </div>
