@@ -1,10 +1,5 @@
 # Seja bem vindo à documentação da Plataforma InvoiCy!
 
-!!! note
-
-    uau sou uma nota!
-
-
 <div class="inicio">
     <span class="p_inicio">
         Nosso objetivo com esse portal é apoiar você para que seja <b>rápido e fácil começar a emissão de notas fiscais eletrônicas com o InvoiCy.</b>
