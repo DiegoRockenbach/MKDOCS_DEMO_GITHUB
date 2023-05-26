@@ -1,0 +1,72 @@
+site_name: Invoicy for Devs
+
+theme:
+  logo: /img/InvoicyforDev.png
+  name: material
+  locale: pt_BR
+  custom_dir: overrides
+  favicon: /img/favicon.png
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  
+  features:
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Página Inicial: index.md
+  - FAQ: FAQ.md
+  - Release Notes do Invoicy:
+      - Release Notes: Release Notes do Invoicy/ReleaseNotes.md
+      - Versão 2.54.5: Release Notes do Invoicy/Versão 2.54.5.md
+      - Versão 2.55.3: Release Notes do Invoicy/Versão 2.55.3.md
+      - Versão 2.56.0: Release Notes do Invoicy/Versão 2.56.0.md
+  - DEMOS:
+      - Introdução aos comandos do MarkDown padrão (RFC 7763): DEMOS/pagina1.md
+      - Alguns comandos do MarkDown extendido (RFC 7764): DEMOS/pagina2.md
+  - Integrações:
+      - CTe: Integrações/CTe.md
+      - MDFe: Integrações/MDFe.md
+      - NFCe: Integrações/NFCe.md
+      - NFe: Integrações/NFe.md
+      - NFSe: Integrações/NFSe.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      - custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: ""
+  - attr_list
+  - md_in_html
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: ""
+      emoji_generator: ""
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/migrate-company
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/migratebrasil/?hl=pt
+    - icon: fontawesome/brands/linkedin
+      link: https://br.linkedin.com/company/migratebrasil
+    - icon: fontawesome/brands/spotify
+      link: https://open.spotify.com/show/4AqLu0LrWeicQQegdDSzG8?si=748b41c6cbe84920&nd=1

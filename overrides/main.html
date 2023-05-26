@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  <html>
+    <div class="extra_HEADER row mx-auto">
+      <a class="a_Sou_Cliente"><img src="/img/img_btn.png">JÁ SOU CLIENTE</a>
+      <a class="a_Suporte">SUPORTE</a>
+    </div>
+  </html>
+{% endblock %}
+
+
+{% block footer %}
+  <html>
+    <div class="extra_FOOTER">
+      <div class="abrir_Chamado">
+        <h1>Não achou o que precisava?</h1>
+        <p>Envie um email para <b>atendimento@migrate.info</b> ou abra um chamado no botão abaixo:</p>
+        <a class="abrir_Chamado_BTN" target="_blank" href="https://desenvolvedores.migrate.info/como-funciona/"><img src="/img/paper_airplane.png"><div class="abrir_Chamado_BTN_TXT">ABRIR UM CHAMADO</div></a>
+      </div>
+      <img class ="MigrateIMG" src="/img/Logo Migrate.png">
+    </div>
+  </html>  
+  {{ super() }}
+{% endblock %}
