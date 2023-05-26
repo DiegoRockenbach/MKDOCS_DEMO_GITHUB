@@ -41,7 +41,7 @@ Ficou com alguma dúvida? Encaminhe para `atendimento@migrate.info` que nossa eq
 Aqui o movimento não para!
 
 <div class="autor">
-    <img alt="Avatar do autor" src="/img/img_autor.png">
+    <img alt="Avatar do autor" src="https://diegorockenbach.github.io/MKDOCS_DEMO_GITHUB/img/img_autor.png">
     <div class="publi_Por">
         <h2>Publicado por: <a href="https://desenvolvedores.migrate.info/author/brunakalschne/" target="_blank"  title="Posts de brunakalschne">brunakalschne</a></h2>
     </div>
