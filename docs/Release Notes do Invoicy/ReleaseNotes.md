@@ -2,7 +2,7 @@
 
 Confira as novidades de cada versão do Invoicy.
 
-## Versão [2.56.0](/Release Notes do Invoicy/Versão 2.56.0/){:target="_blank"} do Invoicy
+## Versão [2.56.0](https://diegorockenbach.github.io/MKDOCS_DEMO_GITHUB/Release Notes do Invoicy/Versão 2.56.0/){:target="_blank"} do Invoicy
 
 Olá pessoal!
 Já está disponível no ambiente de Homologação, a nova versão 2.56.0 do InvoiCy.
@@ -18,7 +18,7 @@ Confira as novidades:
 [Clique aqui](https://desenvolvedores.migrate.info/2022/11/release-notes-versao-2-56-0-do-invoicy/){:target="_blank"} e confira na íntegra todos os detalhes!
 
 
-## Versão [2.55.3](/Release Notes do Invoicy/Versão 2.55.3/){:target="_blank"} do Invoicy
+## Versão [2.55.3](https://diegorockenbach.github.io/MKDOCS_DEMO_GITHUB/Release Notes do Invoicy/Versão 2.55.3/){:target="_blank"} do Invoicy
 
 Olá pessoal!
 Já está disponível no ambiente de Homologação, a nova versão 2.56.0 do InvoiCy.
@@ -35,7 +35,7 @@ Confira as novidades:
 [Clique aqui](https://desenvolvedores.migrate.info/2022/10/release-notes-versao-2-55-3-do-invoicy/){:target="_blank"} e confira na íntegra todos os detalhes!
 
 
-## Versão [2.54.5](/Release Notes do Invoicy/Versão 2.54.5/){:target="_blank"} do Invoicy
+## Versão [2.54.5](https://diegorockenbach.github.io/MKDOCS_DEMO_GITHUB/Release Notes do Invoicy/Versão 2.54.5/){:target="_blank"} do Invoicy
 
 Olá pessoal!
 Já está disponível no ambiente de Homologação, a nova versão 2.56.0 do InvoiCy.
